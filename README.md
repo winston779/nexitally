@@ -15,3 +15,20 @@ Nexitally 奶昔机场是一家成立于2017年的翻墙机场，支持 Shadowso
 * 最高可达2000Mbps带宽
 * 支持路由器的流媒体解锁
 * Netflix、Spotify、Disney+、ChatGPT 3.5会员专属服务
+
+## 套餐列表
+
+**基础服务**
+
+![image](https://raw.githubusercontent.com/winston779/nexitally/main/1.jpg)
+
+**附加服务（附加服务无法独立于基础服务单独工作）**
+
+![image](https://raw.githubusercontent.com/winston779/nexitally/main/2.jpg)
+
+**流媒体服务**
+
+![image](https://raw.githubusercontent.com/winston779/nexitally/main/3.jpg)
+
+
+![image](https://raw.githubusercontent.com/winston779/nexitally/main/4.jpg)
