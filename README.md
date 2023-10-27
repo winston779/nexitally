@@ -8,10 +8,13 @@ Nexitally 奶昔机场是一家成立于2017年的翻墙机场，支持 Shadowso
 
 ## Nexitally优惠码
 
-
 🎁充值满1000元 赠送100元账户余额 仅限新用户
 
 🎈Smart Access Air限时新用户开放购买（带宽资源卖完了就关） 2023-10-26开始
+
+## Nexitally机场怎么样
+
+[Nexitally奶昔机场怎么样？](https://clever99.com/how-about-nexitally)
 
 ## 特色
 
