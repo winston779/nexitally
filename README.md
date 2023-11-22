@@ -4,7 +4,11 @@
 
 ## 简介
 
-Nexitally 奶昔机场是一家成立于2017年的翻墙机场，支持 Shadowsocks、Trojan 多种专用翻墙协议。Nexitally 不同于那些采用 SSpanel和V2board 面板的机场，其面板为自主开发，彰显技术实力，同时采用高端专线出墙，国内多线服务器接入，保证任何时候都可以顺利翻墙出海，非常适合办公等商务需求的用户。针对个人用户，Nexitally 也能很好的满足观影需求，支持Netflix、Disney+等流媒体解锁。
+Nexitally 奶昔机场是一家成立于2017年的翻墙机场，支持 Shadowsocks、Trojan 多种专用翻墙协议。
+
+Nexitally 不同于那些采用 SSpanel和V2board 面板的机场，其面板为自主开发，彰显技术实力，同时采用高端专线出墙，国内多线服务器接入，保证任何时候都可以顺利翻墙出海，非常适合办公等商务需求的用户。
+
+针对个人用户，Nexitally 也能很好的满足观影需求，支持Netflix、Disney+等流媒体解锁。
 
 ## Nexitally优惠码
 
