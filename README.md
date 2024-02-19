@@ -1,6 +1,6 @@
 # Nexitally机场官网地址
 
-最新地址：[nexitcore.com](https://naixisafe.com/signupbyemail.aspx?MemberCode=2d7ae3b7b19840c1a520e4181f355e8f20230428100531&language=cn)
+最新地址：[nexitcore.com](https://naiixi.com/signupbyemail.aspx?MemberCode=2d7ae3b7b19840c1a520e4181f355e8f20230428100531)
 
 ## 简介
 
