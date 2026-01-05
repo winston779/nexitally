@@ -1,6 +1,6 @@
 # Nexitally机场官网地址
 
-最新地址：[nexitcore.com](https://naixinternet.com/signupbyemail.aspx?MemberCode=2d7ae3b7b19840c1a520e4181f355e8f20230428100531)
+最新地址：[nexitcore.com](https://nxonearth.com/signupbyemail.aspx?MemberCode=2d7ae3b7b19840c1a520e4181f355e8f20230428100531)
 
 ## 简介
 
